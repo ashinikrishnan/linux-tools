@@ -1,4 +1,4 @@
-# this project is all about how to install linux tool in a system using browser 
+# This project is all about how to install linux tool in a system using browser 
 Basic requirement 
       python3 and Above
            Download the latest version of Python:
