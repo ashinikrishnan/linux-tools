@@ -17,3 +17,4 @@ to list the install item you can run the command in terminal
       pip list
       
 It will give the lsit of all the tool 
+Note:- You may find error while running code 
